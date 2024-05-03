@@ -13,3 +13,18 @@
     height: 5px;
     
 }
+.row .card{
+    border: none;
+}
+.card .top{
+    display: flex;
+    justify-content: space-between;
+}
+.card .top span{
+    height: 40px;
+    
+}
+#left{
+    display: flex;
+    flex-direction:column;
+}
